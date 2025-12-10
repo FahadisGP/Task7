@@ -19,7 +19,7 @@ The experience feels futuristic, motivational, and highly user-friendly.
 ![Screenshot](images/image1.png)
 
 *Screenshot (choosing strength skills):*  
-![Screenshot](images/image2.png)
+![Screenshot](images/image2.jpg)
 
 *Screenshot (Result):*  
 ![Screenshot](images/image3.png)
